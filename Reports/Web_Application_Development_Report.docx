@@ -1,0 +1,41 @@
+Agile Methodology
+The Agile is a methodology that’s a flexible project management approach that is used to emphasise collaboration between stakeholders and priorities the customer’s need, by delivering projects in short cycles with continuous feedback and on the go adaption.
+  
+
+Agile with Scrum at Worldline UK&I
+Worldline UK&I can leverage Agile's Scrum framework to deliver IT projects in a more iterative, collaborative, and customer-centric way. Here's a breakdown:
+Benefits:
+Faster Delivery: Break down large projects into smaller, more manageable "sprints" (typically 1-4 weeks) to deliver working features quickly. This allows for early feedback and course correction, reducing delays.
+Improved Customer Satisfaction: Scrum's focus on continuous feedback ensures Worldline UK&I constantly gathers customer input and integrates it into the project, resulting in a product that aligns better with customer needs.
+Increased Team Productivity: Scrum fosters collaboration and communication within Worldline UK&I's teams. Daily stand-up meetings keep everyone informed, and team members can self-organize to tackle tasks effectively.
+Reduced Risk: By delivering features in sprints, Worldline UK&I can identify and address issues early, minimizing project risks and ensuring a higher quality end product.
+How it Works at Worldline UK&I:
+Product Backlog: Create a prioritized list of all features and functionalities for the project. This serves as a single source of truth for the entire team.
+Sprint Planning: At the beginning of each sprint, Worldline UK&I's Scrum team (Product Owner, Development Team, Scrum Master) selects a set of features from the backlog to be completed within the sprint's timeframe.
+Sprint: The development team works on the chosen features, adhering to Agile principles like iterative development and continuous integration. Daily stand-up meetings ensure transparency and collaboration.
+Sprint Review: At the sprint's end, the team demonstrates the completed features to the customer (internal or external) and gathers feedback.
+Sprint Retrospective: The Scrum team reflects on the sprint's successes and challenges. This helps identify areas for improvement and continuously refine the Agile process for future sprints.
+Getting Started at Worldline UK&I:
+Training and Adoption: Train Worldline UK&I's teams on Agile principles and Scrum practices. Ensure everyone understands the roles of Product Owner, Development Team, and Scrum Master.
+Pilot Project: Start with a small-scale project to implement Scrum and learn from the experience. This allows for adjustments before wider adoption.
+Continuous Improvement: Agile is an iterative process. Regularly assess and improve Worldline UK&I's Agile practices based on learnings from each sprint.
+By embracing Scrum within Agile, Worldline UK&I can deliver IT projects faster, with better quality, and increased customer satisfaction.
+
+Scrum vs. Kanban
+Feature	Scrum	Kanban
+Structure	Time-boxed sprints (1-4 weeks)	Continuous flow of work
+Focus	Delivering working features at the end of each sprint	Visualizing work, limiting work-in-progress, and optimizing flow
+Change Management	Changes typically accommodated at the start of the next sprint	Changes can be incorporated more readily
+Best Suited For	Projects with well-defined features that can be broken down into sprints	Work that is more unpredictable or has frequent changes in priority
+drive_spreadsheetExport to Sheets
+Proposed Improvement: Hybrid Scrum/Kanban (Scrumban)
+Worldline UK&I might benefit from a hybrid Scrumban model. This combines elements of both Scrum and Kanban:
+Maintain Sprints: Use time-boxed sprints for planning and regular reviews, but...
+Visual Workflow: Introduce a Kanban board to track task progress within each sprint. This enhances visibility and allows for flexibility during a sprint.
+Limit Work-in-Progress (WIP): Apply Kanban's WIP limits to ensure the team focuses on completing tasks rather than constantly starting new ones. This improves efficiency.
+How This Benefits Worldline UK&I:
+Increased Adaptability: Accommodates changing priorities within a sprint, essential for client-facing projects.
+Reduced Bottlenecks: The visual nature of Scrumban helps identify bottlenecks and adjust the workflow for improved efficiency
+Maintains Structure: Sprints provide a framework for regular feedback and a sense of progress, boosting team morale.
+Implementation:
+Worldline UK&I could start experimenting with Scrumban on a suitable project. The Scrum team can introduce a Kanban board and adopt WIP limits within the context of their ongoing sprints. Careful review and feedback from the team would guide further refinement of this process.
